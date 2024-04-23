@@ -1,0 +1,13 @@
+.errorContainer {
+  cursor: pointer;
+}
+.errorCode {
+  font-size: 120px;
+  font-weight: bold;
+  text-align: center;
+}
+.errorMessage {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
